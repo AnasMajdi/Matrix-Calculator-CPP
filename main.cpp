@@ -1,8 +1,6 @@
 /**
  * =========================================================
  * @author      Anas Majdi 
- * @brief       Idea Owner      : Lujain Mohammad
- * @note        Team Members    : Anas & Lujain
  * @attention   Supervisor      : Dr. Ammar Issa
  * =========================================================
  */
